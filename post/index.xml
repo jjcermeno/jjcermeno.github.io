@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Juan Jose Cermeño</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Juan Jose Cermeño</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;</copyright>
+    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contadito. Personal finance web service</title>
+      <link>/post/contadito/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0200</pubDate>
+      
+      <guid>/post/contadito/</guid>
+      <description>Personal web service for home finance with dashboards. Still in development.</description>
+    </item>
+    
+    <item>
+      <title>Cobalt. Web Medical Practice Management System</title>
+      <link>/post/cobalt/</link>
+      <pubDate>Mon, 03 Sep 2012 00:00:00 +0200</pubDate>
+      
+      <guid>/post/cobalt/</guid>
+      <description>Extremely complete, easy to use, robust Web Radiologic Information System and Medical Practice Management Sofware</description>
+    </item>
+    
+    <item>
+      <title>MedNimbus. Medical Imaging Cloud storage and tele-radiology service</title>
+      <link>/post/mednimbus/</link>
+      <pubDate>Sat, 01 Sep 2012 00:00:00 +0200</pubDate>
+      
+      <guid>/post/mednimbus/</guid>
+      <description>Integrated with medical imaging centers with automatic encrypted image upload to the Cloud</description>
+    </item>
+    
+    <item>
+      <title>HoruX. Mac OS X Medical Management Application</title>
+      <link>/post/horux/</link>
+      <pubDate>Sun, 20 Jun 2010 00:00:00 +0200</pubDate>
+      
+      <guid>/post/horux/</guid>
+      <description>Beautiful complete and easy to use Radiologic Information System</description>
+    </item>
+    
+  </channel>
+</rss>
