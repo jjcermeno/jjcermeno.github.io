@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Product | Juan Jose Cermeño</title>
+    <link>/tag/product/</link>
+      <atom:link href="/tag/product/index.xml" rel="self" type="application/rss+xml" />
+    <description>Product</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©</copyright><lastBuildDate>Mon, 03 Sep 2012 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Product</title>
+      <link>/tag/product/</link>
+    </image>
+    
+    <item>
+      <title>Cobalt. Web Medical Practice Management System</title>
+      <link>/post/cobalt/</link>
+      <pubDate>Mon, 03 Sep 2012 00:00:00 +0200</pubDate>
+      <guid>/post/cobalt/</guid>
+      <description>&lt;p&gt;Developed using Ruby on Rails, I managed to create a medical management web application deployable locally or on the cloud from any vendor. The software was able to manage doctor&amp;rsquo;s appointments, patients medical records, invoices, treatments, medications and it had a dashboard for showing center performance.
+Codename: Cobalt&lt;/p&gt;
+&lt;p&gt;It was a very complete piece of software, robust, fast and easy to use.
+Key features:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Patient management module&lt;/li&gt;
+&lt;li&gt;Appointments&lt;/li&gt;
+&lt;li&gt;Reports&lt;/li&gt;
+&lt;li&gt;Invoices&lt;/li&gt;
+&lt;li&gt;OsiriX integrated workflow&lt;/li&gt;
+&lt;li&gt;Integrated with Osirix for image review and other external DICOM Viewers&lt;/li&gt;
+&lt;li&gt;Built-in DICOM Worklist server&lt;/li&gt;
+&lt;li&gt;and more&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;screenshots&#34;&gt;Screenshots&lt;/h2&gt;
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/cobalt/gallery/login.png&#34; data-caption=&#34;Login&#34;&gt;
+  &lt;img data-src=&#34;/post/cobalt/gallery/login_hu75621b9df8ab1cc2fe15f3ee3d9e87f5_2328943_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;246&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/cobalt/gallery/medical_report.png&#34; data-caption=&#34;Reports&#34;&gt;
+  &lt;img data-src=&#34;/post/cobalt/gallery/medical_report_hu666cee096036de9ff4149912f51494e2_370065_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;250&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/cobalt/gallery/patient_file.png&#34; data-caption=&#34;Patient&#34;&gt;
+  &lt;img data-src=&#34;/post/cobalt/gallery/patient_file_hu75621b9df8ab1cc2fe15f3ee3d9e87f5_428183_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;246&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/cobalt/gallery/welcome-doctor.png&#34; data-caption=&#34;Doctor worklist&#34;&gt;
+  &lt;img data-src=&#34;/post/cobalt/gallery/welcome-doctor_hu75621b9df8ab1cc2fe15f3ee3d9e87f5_456443_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;246&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MedNimbus. Medical Imaging Cloud storage and tele-radiology service</title>
+      <link>/post/mednimbus/</link>
+      <pubDate>Sat, 01 Sep 2012 00:00:00 +0200</pubDate>
+      <guid>/post/mednimbus/</guid>
+      <description>&lt;p&gt;Service is still running. I developed it using Ruby on Rails back on 2012, a medical image and medical reporting web application with cloud storage (AWS S3). The software is able to send images using cyphered communications and are sent to cloud after an anonymization process. Service is considered a secured tele-radiology
+system. Still in use 
+&lt;a href=&#34;http://www.mednimbus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.mednimbus.com&lt;/a&gt; and 
+&lt;a href=&#34;https://www.dicom-seram.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.dicom-seram.com&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;screenshots&#34;&gt;Screenshots&lt;/h2&gt;
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/mednimbus/gallery/cases.png&#34; data-caption=&#34;Cases&#34;&gt;
+  &lt;img data-src=&#34;/post/mednimbus/gallery/cases_huf1dd4407c2c9c43ec4714aabd4c535b1_336145_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;231&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/mednimbus/gallery/images.png&#34; data-caption=&#34;Images&#34;&gt;
+  &lt;img data-src=&#34;/post/mednimbus/gallery/images_hu02c24cae5714a1d20b2a07e5ecc83c02_709176_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;229&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/mednimbus/gallery/login.png&#34; data-caption=&#34;Login&#34;&gt;
+  &lt;img data-src=&#34;/post/mednimbus/gallery/login_hu9c5dfc72c440ec0e4b9aa5c15124c2c1_738678_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;265&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/mednimbus/gallery/viewer.png&#34; data-caption=&#34;Web DICOM Viewer&#34;&gt;
+  &lt;img data-src=&#34;/post/mednimbus/gallery/viewer_hu0f3a923ea2b54a0ad15d8573d779dbb2_641781_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;274&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>HoruX. Mac OS X Medical Management Application</title>
+      <link>/post/horux/</link>
+      <pubDate>Sun, 20 Jun 2010 00:00:00 +0200</pubDate>
+      <guid>/post/horux/</guid>
+      <description>&lt;p&gt;HoruX is (was) a Mac OS X Medical Management desktop application with PostgreSQL database server. I developed it as a Radiologic Information System (RIS) compatible with DICOM servers (know as PACS) and integrated with OsiriX (DICOM Medical Image Viewer).
+Codename: HoruX.&lt;/p&gt;
+&lt;p&gt;It was a very complete piece of software, robust, fast and easy to use.
+Key features:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Patient management module&lt;/li&gt;
+&lt;li&gt;Appointments&lt;/li&gt;
+&lt;li&gt;Reports&lt;/li&gt;
+&lt;li&gt;Invoices&lt;/li&gt;
+&lt;li&gt;OsiriX integrated workflow&lt;/li&gt;
+&lt;li&gt;Voice dictation and recorder&lt;/li&gt;
+&lt;li&gt;Report encrypted email sending&lt;/li&gt;
+&lt;li&gt;Built-in DICOM Worklist server&lt;/li&gt;
+&lt;li&gt;and more&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;screenshots&#34;&gt;Screenshots&lt;/h2&gt;
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/horux/gallery/Appointments4.png&#34; &gt;
+  &lt;img data-src=&#34;/post/horux/gallery/Appointments4_hu3bf9ac99be9a6c37d794caaabdaafca9_154002_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/horux/gallery/HoruXAppointments.png&#34; data-caption=&#34;Appointments&#34;&gt;
+  &lt;img data-src=&#34;/post/horux/gallery/HoruXAppointments_hua9eee4df4900280e9d2849c0d4351768_198697_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;205&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/horux/gallery/HoruXInvoice.png&#34; data-caption=&#34;Invoices&#34;&gt;
+  &lt;img data-src=&#34;/post/horux/gallery/HoruXInvoice_huc009002b175b9d968ab405b38f392600_292143_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;189&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/horux/gallery/scn1.png&#34; data-caption=&#34;Reports&#34;&gt;
+  &lt;img data-src=&#34;/post/horux/gallery/scn1_hu47e6ee5e2328113db44eacd57d0b17e7_447803_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;167&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/horux/gallery/scn2.png&#34; data-caption=&#34;Reports&#34;&gt;
+  &lt;img data-src=&#34;/post/horux/gallery/scn2_hub5d328462e2ffbc6cfc0226922ef519f_361204_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;131&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/horux/gallery/scn3.png&#34; data-caption=&#34;Workflow&#34;&gt;
+  &lt;img data-src=&#34;/post/horux/gallery/scn3_hud47294693bb5431f504ddd19e0ea8c3f_165868_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;267&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/horux/gallery/scn4.png&#34; data-caption=&#34;Patients&#34;&gt;
+  &lt;img data-src=&#34;/post/horux/gallery/scn4_hu737756e808e590a97fdd76b1991b523a_347382_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;198&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
